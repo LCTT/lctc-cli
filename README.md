@@ -1,8 +1,8 @@
 # LCTC - Linux 中国翻译组 漫画组选题工具
 
-[![npm](https://img.shields.io/npm/dw/localeval.svg?style=plastic)](https://www.npmjs.com/package/lctc-cli)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)](https://github.com/bestony/lctc-cli)
-[![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg?style=plastic)](https://github.com/bestony/lctc-cli)
+[![npm](https://img.shields.io/npm/dy/lctt-cli.svg?style=plastic)](https://www.npmjs.com/package/lctc-cli)
+[![license](https://img.shields.io/github/license/bestony/lctc-cli.svg?style=plastic)](https://github.com/bestony/lctc-cli)
+[![GitHub issues](https://img.shields.io/github/issues/bestony/lctc-cli.svg?style=plastic)](https://github.com/bestony/lctc-cli)
 
 ![](https://ws4.sinaimg.cn/large/006tNc79gy1fmwx9w6uhvj30dw0dw3ye.jpg)
 
