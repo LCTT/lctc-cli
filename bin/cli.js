@@ -32,6 +32,8 @@ program
      }else{
        if (url.indexOf("monkeyuser") != -1){
         monkeyuser.main(url);
+       }else{
+         console.log("This site is not support!".red)
        }
      }
   });
