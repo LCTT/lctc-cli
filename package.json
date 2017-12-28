@@ -1,0 +1,29 @@
+{
+  "name": "lctc-cli",
+  "version": "0.0.1",
+  "description": "Linux Cn Translate Team -  Comic Team Cli",
+  "main": "bin/cli.js",
+  "bin": {
+    "lctc-cli": "cli.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bestony/lctc-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "Bestony",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/bestony/lctc-cli/issues"
+  },
+  "homepage": "https://github.com/bestony/lctc-cli#readme"
+}
