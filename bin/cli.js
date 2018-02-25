@@ -2,12 +2,13 @@
 
 var program = require("commander");
 var colors = require('colors');
+var packageinfo = require('../package.json');
 var turnoff = require('../lib/turnoffus');
 var monkeyuser = require("../lib/monkeyusercom");
 
 // 输出版本号和说明
 program
-  .version('0.0.4');
+  .version(packageinfo.version);
 
 // 列出目前支持的站点
 program
