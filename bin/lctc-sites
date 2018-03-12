@@ -1,0 +1,11 @@
+#!/usr/bin/env node
+
+const sitelist = require('../lib/sitelist');
+const colors = require('colors');
+
+console.log('List all support sites: '.yellow);
+console.log();
+
+Object.keys(sitelist).forEach((item, idx) => {
+  console.log(`  - ${sitelist[item].site_root}`.white);
+});

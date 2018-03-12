@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+
+require('commander')
+  .version(require('../package').version)
+  .usage('<command> [options]')
+  .command('sites', 'List all support sites')
+  .command('deal [url]', 'Use to deal a url')
+  .parse(process.argv)
